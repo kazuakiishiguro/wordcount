@@ -16,7 +16,7 @@ here are the simple steps you can start using this tool.
 ```bash
 $ git clone https://github.com/kazuakiishiguro/wordcount.git
 $ cd wordcount
-$ cargo build --release // OR simply run cargo run command
+$ cargo build --release #OR simply run cargo run command
 
 $ ./target/release/wordcount text.txt
 {"aa": 1, "bb": 1, "cc": 1, "dd": 1}
